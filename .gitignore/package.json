@@ -1,0 +1,17 @@
+{
+  "name": "WYNOXBot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DiscordBot",
+  "keywords": [],
+  "author": {
+    "name": "z",
+    "email": "",
+    "url": ""
+  },
+  "main": "index.js",
+  "dependencies": {},
+  "files": [],
+  "directories": {},
+  "scripts": {}
+}
